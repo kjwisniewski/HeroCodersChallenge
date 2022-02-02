@@ -1,0 +1,12 @@
+{
+  "name": "herocoders-challenge-2",
+  "version": "1.0.0",
+  "description": "HeroCoders challenge 2",
+  "author": "Kamil Wisniewski",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.0"
+  },
+  "devDependencies": {}
+}
